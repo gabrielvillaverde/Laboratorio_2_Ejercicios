@@ -1,0 +1,16 @@
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\bin\Debug\net5.0\Ejercicio_I02.exe
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\bin\Debug\net5.0\Ejercicio_I02.deps.json
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\bin\Debug\net5.0\Ejercicio_I02.runtimeconfig.json
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\bin\Debug\net5.0\Ejercicio_I02.runtimeconfig.dev.json
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\bin\Debug\net5.0\Ejercicio_I02.dll
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\bin\Debug\net5.0\Ejercicio_I02.pdb
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\obj\Debug\net5.0\Ejercicio_I02.csproj.AssemblyReference.cache
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\obj\Debug\net5.0\Ejercicio_I02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\obj\Debug\net5.0\Ejercicio_I02.AssemblyInfoInputs.cache
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\obj\Debug\net5.0\Ejercicio_I02.AssemblyInfo.cs
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\obj\Debug\net5.0\Ejercicio_I02.csproj.CoreCompileInputs.cache
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\obj\Debug\net5.0\Ejercicio_I02.dll
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\obj\Debug\net5.0\refint\Ejercicio_I02.dll
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\obj\Debug\net5.0\Ejercicio_I02.pdb
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\obj\Debug\net5.0\Ejercicio_I02.genruntimeconfig.cache
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I02\Ejercicio_I02\obj\Debug\net5.0\ref\Ejercicio_I02.dll
