@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01\\Ejercicio_I01\\Ejercicio_I01.csproj": {}
+    "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Introducción a .NET\\Ejercicio_I01\\Ejercicio_I01\\Ejercicio_I01.csproj": {}
   },
   "projects": {
-    "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01\\Ejercicio_I01\\Ejercicio_I01.csproj": {
+    "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Introducción a .NET\\Ejercicio_I01\\Ejercicio_I01\\Ejercicio_I01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01\\Ejercicio_I01\\Ejercicio_I01.csproj",
+        "projectUniqueName": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Introducción a .NET\\Ejercicio_I01\\Ejercicio_I01\\Ejercicio_I01.csproj",
         "projectName": "Ejercicio_I01",
-        "projectPath": "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01\\Ejercicio_I01\\Ejercicio_I01.csproj",
+        "projectPath": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Introducción a .NET\\Ejercicio_I01\\Ejercicio_I01\\Ejercicio_I01.csproj",
         "packagesPath": "C:\\Users\\Hzkr\\.nuget\\packages\\",
-        "outputPath": "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01\\Ejercicio_I01\\obj\\",
+        "outputPath": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Introducción a .NET\\Ejercicio_I01\\Ejercicio_I01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hzkr\\AppData\\Roaming\\NuGet\\NuGet.Config",
