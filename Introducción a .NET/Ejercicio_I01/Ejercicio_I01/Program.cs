@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ejercicio_I01_Min_Max_Promedio
+namespace Ejercicio_I01
 
     /* Ejercicio I01 - Máximo, mínimo y promedio.
      
