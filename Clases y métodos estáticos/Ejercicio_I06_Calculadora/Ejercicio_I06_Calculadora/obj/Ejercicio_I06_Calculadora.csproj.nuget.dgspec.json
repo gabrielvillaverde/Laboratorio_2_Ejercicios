@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Introducción a .NET\\Ejercicio_I06\\Ejercicio_I06\\Ejercicio_I06.csproj": {}
+    "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I06_Calculadora\\Ejercicio_I06_Calculadora\\Ejercicio_I06_Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Introducción a .NET\\Ejercicio_I06\\Ejercicio_I06\\Ejercicio_I06.csproj": {
+    "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I06_Calculadora\\Ejercicio_I06_Calculadora\\Ejercicio_I06_Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Introducción a .NET\\Ejercicio_I06\\Ejercicio_I06\\Ejercicio_I06.csproj",
-        "projectName": "Ejercicio_I06",
-        "projectPath": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Introducción a .NET\\Ejercicio_I06\\Ejercicio_I06\\Ejercicio_I06.csproj",
+        "projectUniqueName": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I06_Calculadora\\Ejercicio_I06_Calculadora\\Ejercicio_I06_Calculadora.csproj",
+        "projectName": "Ejercicio_I06_Calculadora",
+        "projectPath": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I06_Calculadora\\Ejercicio_I06_Calculadora\\Ejercicio_I06_Calculadora.csproj",
         "packagesPath": "C:\\Users\\Hzkr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Introducción a .NET\\Ejercicio_I06\\Ejercicio_I06\\obj\\",
+        "outputPath": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I06_Calculadora\\Ejercicio_I06_Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hzkr\\AppData\\Roaming\\NuGet\\NuGet.Config",
