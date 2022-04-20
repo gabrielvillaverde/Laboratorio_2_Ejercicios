@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador.csproj": {}
+    "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador.csproj": {}
   },
   "projects": {
-    "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Hzkr\\.nuget\\packages\\",
-        "outputPath": "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01_Validador\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hzkr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador.csproj": {
+    "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador.csproj",
+        "projectUniqueName": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador.csproj",
         "projectName": "Ejercicio_I01_Validador",
-        "projectPath": "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador.csproj",
+        "projectPath": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador.csproj",
         "packagesPath": "C:\\Users\\Hzkr\\.nuget\\packages\\",
-        "outputPath": "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador\\obj\\",
+        "outputPath": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hzkr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "F:\\Facultad\\Programación\\Segundo cuatrimestre (2do intento)\\Laboratorio y programación 2\\Proyectos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj"
+              "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj"
               }
             }
           }

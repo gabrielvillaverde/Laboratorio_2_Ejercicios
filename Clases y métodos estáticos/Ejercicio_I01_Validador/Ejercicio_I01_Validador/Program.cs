@@ -21,7 +21,7 @@ namespace Ejercicio_I01_Validador
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Prueba");
         }
     }
 }
