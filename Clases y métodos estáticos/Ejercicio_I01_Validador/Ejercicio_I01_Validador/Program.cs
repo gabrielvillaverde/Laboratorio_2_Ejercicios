@@ -1,5 +1,5 @@
 ﻿using System;
-using Biblioteca;
+using Biblioteca; // Agrego la referencia de mi biblioteca de clases.
 
 namespace Ejercicio_I01_Validador
 {
@@ -21,7 +21,42 @@ namespace Ejercicio_I01_Validador
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Prueba");
+            int numerosTotales = 10;
+            int numero;
+            string numeroString;
+
+            int max = int.MinValue;
+            int min = int.MaxValue;
+
+            int acumulador = 0;
+            float promedio;
+            
+            for (int i = 0; i < numerosTotales; i++)
+            {
+                // Va a pedir un número mientras que el TryParse no devuelva una variable del tipo int.
+                do
+                {
+                Console.WriteLine("Ingrese un número:");
+                numeroString = Console.ReadLine(); // Leo el string que ingresa el usuario.
+                }while(!int.TryParse(numeroString, out numero)); // Con TryParse paso de string a int.
+
+                if(Validador.Validar(numero, -100, 100)) // Invoco a mi método junto con sus parámetros. Si mi método Validar devuelve true, entra al cuerpo del if.    
+                {
+                    if (numero > max)
+                    {
+                        max = numero;
+                    }
+                    if (numero < min)
+                    {
+                        min = numero;
+                    }
+                    acumulador = acumulador + numero;
+                }
+            }
+            promedio = acumulador / numerosTotales;
+            Console.WriteLine($"El número máximo es: {max}, el número mínimo es {min} y el promedio es {promedio}");
         }
     }
+  
+
 }

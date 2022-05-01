@@ -1,19 +1,38 @@
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.exe
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.deps.json
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.runtimeconfig.json
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.runtimeconfig.dev.json
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.dll
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.pdb
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Biblioteca.dll
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Biblioteca.pdb
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.csproj.AssemblyReference.cache
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.AssemblyInfoInputs.cache
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.AssemblyInfo.cs
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.csproj.CoreCompileInputs.cache
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.csproj.CopyComplete
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.dll
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\refint\Ejercicio_I01_Validador.dll
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.pdb
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.genruntimeconfig.cache
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\ref\Ejercicio_I01_Validador.dll
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.exe
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.deps.json
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.runtimeconfig.json
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.runtimeconfig.dev.json
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.dll
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.pdb
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Biblioteca.dll
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Biblioteca.pdb
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.csproj.AssemblyReference.cache
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.AssemblyInfoInputs.cache
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.AssemblyInfo.cs
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.csproj.CoreCompileInputs.cache
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.csproj.CopyComplete
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.dll
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\refint\Ejercicio_I01_Validador.dll
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.pdb
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.genruntimeconfig.cache
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\ref\Ejercicio_I01_Validador.dll
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.exe
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.deps.json
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.runtimeconfig.json
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.runtimeconfig.dev.json
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.dll
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Ejercicio_I01_Validador.pdb
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.csproj.AssemblyReference.cache
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.AssemblyInfoInputs.cache
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.AssemblyInfo.cs
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.csproj.CoreCompileInputs.cache
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.csproj.CopyComplete
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.dll
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\refint\Ejercicio_I01_Validador.dll
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.pdb
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\Ejercicio_I01_Validador.genruntimeconfig.cache
+C:\Users\Hzkr\Source\Repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Ejercicio_I01_Validador\obj\Debug\net5.0\ref\Ejercicio_I01_Validador.dll

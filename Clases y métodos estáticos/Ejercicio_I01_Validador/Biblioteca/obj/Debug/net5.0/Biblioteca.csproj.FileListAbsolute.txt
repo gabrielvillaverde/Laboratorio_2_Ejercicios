@@ -1,12 +1,12 @@
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
-C:\Users\Hzkr\source\repos\gabrielvillaverde\Laboratorio_2_Ejercicios\Clases y métodos estáticos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+F:\Facultad\Programación\Segundo cuatrimestre (2do intento)\Laboratorio y programación 2\Proyectos\Ejercicio_I01_Validador\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll

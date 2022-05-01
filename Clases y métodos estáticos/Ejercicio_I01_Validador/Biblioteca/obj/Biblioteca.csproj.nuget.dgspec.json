@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\Hzkr\\Source\\Repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Hzkr\\Source\\Repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Hzkr\\Source\\Repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Hzkr\\Source\\Repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Hzkr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hzkr\\source\\repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Hzkr\\Source\\Repos\\gabrielvillaverde\\Laboratorio_2_Ejercicios\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hzkr\\AppData\\Roaming\\NuGet\\NuGet.Config",
