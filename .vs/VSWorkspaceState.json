@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Clases y métodos estáticos",
+    "\\Clases y métodos estáticos\\Ejercicio_I01_Validador",
+    "\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador"
   ],
-  "SelectedNode": "\\Ejercicio_I01_Validador.sln",
+  "SelectedNode": "\\Clases y métodos estáticos\\Ejercicio_I01_Validador\\Ejercicio_I01_Validador\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
